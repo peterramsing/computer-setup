@@ -1,0 +1,14 @@
+apm install atom-beautify
+apm install atom-typescript
+apm install color-picker
+apm install atom-panda-syntax
+apm install editorconfig
+apm install file-icons
+apm install linter
+apm install linter-eslint
+apm install linter-scss-lint
+apm install merge-conflicts
+apm install minimap
+apm install minimap-git-diff
+apm install minimap-linter
+apm install tabs-to-spaces
