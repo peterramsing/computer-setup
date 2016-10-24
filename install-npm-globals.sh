@@ -1,5 +1,7 @@
 #!/bin/bash
 
+npm set progress=false
+
 packages=(
   "gulp"
   "typescript"
