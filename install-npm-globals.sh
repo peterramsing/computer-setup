@@ -5,6 +5,7 @@ npm set progress=false
 packages=(
   "gulp"
   "typescript"
+  "npm-check-updates"
 )
 
 for i in "${packages[@]}"
