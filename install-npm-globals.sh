@@ -6,6 +6,7 @@ packages=(
   "gulp"
   "typescript"
   "npm-check-updates"
+  "eslint"
 )
 
 for i in "${packages[@]}"
