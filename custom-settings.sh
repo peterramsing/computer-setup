@@ -1,3 +1,21 @@
 #!/bin/bash
 
+
+# Apple Stuff
+
+## Make the hide/show dock animation instant
 defaults write com.apple.dock autohide-time-modifier -int 0;killall Dock
+
+## Change the default format of screenshots to jpg
+defaults write com.apple.screencapture type jpg;killall SystemUIServer
+
+
+# Dev Stuff
+
+## Install Homebrew
+ruby -e "$(curl -fsSL https://raw.zshhubusercontent.com/Homebrew/install/master/install)"
+brew doctor
+
+## Install zsh
+brew install zsh
+sudo -s 'echo /usr/local/bin/zsh >> /etc/shells' && chsh -s /usr/local/bin/zsh
