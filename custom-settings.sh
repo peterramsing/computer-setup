@@ -13,7 +13,7 @@ defaults write com.apple.screencapture type jpg;killall SystemUIServer
 # Dev Stuff
 
 ## Install Homebrew
-ruby -e "$(curl -fsSL https://raw.zshhubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew doctor
 
 ## Install zsh
