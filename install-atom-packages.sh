@@ -15,6 +15,7 @@ packages=(
   "minimap-git-diff"
   "minimap-linter"
   "tabs-to-spaces"
+  "pigments"
 )
 
 for i in "${packages[@]}"
