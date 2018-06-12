@@ -1,0 +1,56 @@
+{
+  "editor.accessibilitySupport": "off",
+  "editor.fontFamily": "OpenDyslexicMono, Regular, Consolas, 'Courier New', monospace",
+  "editor.wordWrap": "on",
+  "[javascript]": {
+      "editor.formatOnSave": true
+  },
+  "[typescript]": {
+      "editor.formatOnSave": true
+  },
+  "[css]": {
+      "editor.formatOnSave": true
+  },
+  "[scss]": {
+      "editor.formatOnSave": true
+  },
+  "window.zoomLevel": -1,
+  "editor.tabSize": 2,
+  "editor.rulers": [
+      80
+  ],
+  "cSpell.userWords": [
+      "accessorial",
+      "accessorials",
+      "affordance",
+      "be",
+      "datepicker",
+      "deregistration",
+      "fdescribe",
+      "injectable",
+      "lifecycle",
+      "mailto",
+      "prepopulates",
+      "rq's",
+      "rqst",
+      "stackable",
+      "tabindex",
+      "to",
+      "truthy",
+      "validators",
+      "viewmodel",
+      "viewmodels"
+  ],
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "One Dark Pro",
+  "files.autoSave": "onWindowChange",
+  "html.format.wrapAttributes": "force-aligned",
+  "editor.cursorStyle": "block",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.mouseWheelZoom": true,
+  "editor.showFoldingControls": "always",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "html.format.endWithNewline": true,
+  "html.format.indentInnerHtml": true,
+  "html.suggest.angular1": false,
+}
